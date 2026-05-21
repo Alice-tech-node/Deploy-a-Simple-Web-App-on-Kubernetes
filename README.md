@@ -28,7 +28,9 @@ kubectl get nodes
 <img width="454" height="246" alt="image" src="https://github.com/user-attachments/assets/a3f75a49-945d-434b-a883-0fc058242073" />
 
 ## Step 4: Create Dockerfile
-//create a simple dockerfile
+//You’ll create a Docker container for your Flask app so Kubernetes can run it.
+<img width="569" height="400" alt="image" src="https://github.com/user-attachments/assets/36f730e8-d6f8-41bd-a722-7e16429ecec6" />
+
 
 
 

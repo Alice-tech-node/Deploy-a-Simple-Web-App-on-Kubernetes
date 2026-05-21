@@ -21,7 +21,14 @@ kubectl get nodes
 <img width="1350" height="154" alt="image" src="https://github.com/user-attachments/assets/bec839c5-5b78-487f-9f72-12f3e0955879" />
 
 # Step 3: Create a Simple App
-//create a simple app, eaxample flask app.
-//save the documenr app.py and another one requirements.txt 
+
+//create a simple app, example flask app.
+//save the document app.py and another one requirements.txt. This tells Docker what Python packages to install.
 //Code is added to the file section
+<img width="454" height="246" alt="image" src="https://github.com/user-attachments/assets/a3f75a49-945d-434b-a883-0fc058242073" />
+
+## Step 4: Create Dockerfile
+//create a simple dockerfile
+
+
 

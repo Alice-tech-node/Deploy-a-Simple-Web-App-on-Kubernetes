@@ -28,6 +28,13 @@ kubectl get nodes
 
 ## Step 4: Create Dockerfile
 /*You’ll create a Docker container for your Flask app so Kubernetes can run it.*
+> FROM python:3.11 - Uses Python 3.11 image.
+> WORKDIR /app - Creates /app inside container.
+> COPY . . - Copies everything from your folder into container.
+> RUN pip install -r requirements.txt - Installs Flask.
+> EXPOSE 5000 - Allows access to app on port 5000.
+> CMD ["python", "app.py"] - Runs your app when container starts.
+
 <img width="584" height="400" alt="image" src="https://github.com/user-attachments/assets/cd84b794-f3ae-48ad-b856-7a4fe0ee1cfd" />
 
 ## Step 5: Build Docker Image

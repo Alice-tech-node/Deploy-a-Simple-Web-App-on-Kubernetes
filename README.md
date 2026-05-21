@@ -22,7 +22,8 @@ kubectl get nodes
 
 # Step 3: Create a Simple App
 //create a simple app, example flask app.
-//save the document app.py and another one requirements.txt. This tells Docker what Python packages to install.
+//save the document app.py and another one requirements.txt. 
+/*This tells Docker what Python packages to install.
 //Code is added to the file section
 <img width="454" height="246" alt="image" src="https://github.com/user-attachments/assets/a3f75a49-945d-434b-a883-0fc058242073" />
 

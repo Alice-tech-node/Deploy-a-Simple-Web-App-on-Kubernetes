@@ -30,6 +30,13 @@ kubectl get nodes
 /*You’ll create a Docker container for your Flask app so Kubernetes can run it.*
 <img width="584" height="400" alt="image" src="https://github.com/user-attachments/assets/cd84b794-f3ae-48ad-b856-7a4fe0ee1cfd" />
 
+## Step 5: Build Docker Image
+*The docker image is created by using this command;docker build -t flask-k8s-app .*
+
+>> docker build → build image
+>> -t → tag/name image
+>> . → current folder
+
 
 
 

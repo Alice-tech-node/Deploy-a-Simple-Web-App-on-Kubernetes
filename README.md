@@ -6,7 +6,9 @@ Deploy a containerized web app into Kubernetes and expose it in the browser.
 Install: To the your desktop
 
 Docker Desktop
+
 Minikube
+
 kubectl
 
 ## Step 2: Start Kubernetes Cluster

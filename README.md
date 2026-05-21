@@ -33,9 +33,11 @@ kubectl get nodes
 ## Step 5: Build Docker Image
 *The docker image is created by using this command;docker build -t flask-k8s-app .*
 
->> docker build → build image
->> -t → tag/name image
->> . → current folder
+> docker build → build image
+
+> -t → tag/name image
+
+> . → current folder
 
 
 

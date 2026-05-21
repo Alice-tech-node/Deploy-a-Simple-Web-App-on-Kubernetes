@@ -40,7 +40,8 @@ kubectl get nodes
 
 > CMD ["python", "app.py"] - Runs your app when container starts.
 
-<img width="584" height="400" alt="image" src="https://github.com/user-attachments/assets/cd84b794-f3ae-48ad-b856-7a4fe0ee1cfd" />
+<img width="577" height="304" alt="image" src="https://github.com/user-attachments/assets/68baa056-681c-4b9e-bfa5-5414f14f10dc" />
+
 
 ## Step 5: Build Docker Image
 *The docker image is created by using this command;docker build -t flask-k8s-app .*

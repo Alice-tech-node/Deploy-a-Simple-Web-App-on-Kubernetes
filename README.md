@@ -21,7 +21,6 @@ kubectl get nodes
 <img width="1350" height="154" alt="image" src="https://github.com/user-attachments/assets/bec839c5-5b78-487f-9f72-12f3e0955879" />
 
 # Step 3: Create a Simple App
-
 //create a simple app, example flask app.
 //save the document app.py and another one requirements.txt. This tells Docker what Python packages to install.
 //Code is added to the file section
@@ -29,7 +28,8 @@ kubectl get nodes
 
 ## Step 4: Create Dockerfile
 //You’ll create a Docker container for your Flask app so Kubernetes can run it.
-<img width="569" height="400" alt="image" src="https://github.com/user-attachments/assets/36f730e8-d6f8-41bd-a722-7e16429ecec6" />
+<img width="584" height="400" alt="image" src="https://github.com/user-attachments/assets/cd84b794-f3ae-48ad-b856-7a4fe0ee1cfd" />
+
 
 
 
